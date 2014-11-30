@@ -12,3 +12,6 @@ Make sure that the BASE_FOLDER you specify in the config contains a writable dir
 "data". Also, if you want to use the mail functions, make sure to configure mail on your server.
 Eg. install and configure postfix. If mail is not important for you, simply comment the lines
 containing "mail" out.
+
+# Requirements
+7z
